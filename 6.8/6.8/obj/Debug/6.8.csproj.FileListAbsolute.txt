@@ -1,0 +1,8 @@
+C:\Users\marty\Desktop\6.8\6.8\bin\Debug\6.8.exe.config
+C:\Users\marty\Desktop\6.8\6.8\bin\Debug\6.8.exe
+C:\Users\marty\Desktop\6.8\6.8\bin\Debug\6.8.pdb
+C:\Users\marty\Desktop\6.8\6.8\obj\Debug\6.8.csproj.AssemblyReference.cache
+C:\Users\marty\Desktop\6.8\6.8\obj\Debug\6.8.csproj.SuggestedBindingRedirects.cache
+C:\Users\marty\Desktop\6.8\6.8\obj\Debug\6.8.csproj.CoreCompileInputs.cache
+C:\Users\marty\Desktop\6.8\6.8\obj\Debug\6.8.exe
+C:\Users\marty\Desktop\6.8\6.8\obj\Debug\6.8.pdb
